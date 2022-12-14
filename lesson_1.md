@@ -35,9 +35,11 @@
 
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/106597077/207633261-87feb5d2-ee0e-41c0-a248-9fb07fab1e1d.png">
 
-- Step 6: Click Start using Jenkins mở ra giao diện ban đâu:
+- Step 6: Click Start using Jenkins mở ra giao diện ban đâu và bắt đầu sử dụng thôi
 
-<img width="1280" alt="image" src="https://user-images.githubusercontent.com/106597077/207634367-eb18987d-e7b4-4451-bc72-d684b11ff5c8.png">
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/106597077/207641011-a7f01370-6ae7-47b2-a07c-fa44217e4e30.png">
+
+
 
 
 ### Các bước expose Jenkins chạy ở localhost:8080 ra ngoài Internet:
