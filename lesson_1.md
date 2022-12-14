@@ -27,7 +27,29 @@
 <img width="1277" alt="image" src="https://user-images.githubusercontent.com/106597077/207629585-261d4b02-6c83-4858-b00c-3eccb1276f57.png">
 
 
-- Step 4: Chọn cài đặt plugins
+- Step 4: Chọn cài đặt plugins và bắt đầu cài đặt
 
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/106597077/207630475-c7d24345-d472-4c84-9520-b230c5ffd1eb.png">
+
+- Step 5: Tạo user admin: admin/admin
+
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/106597077/207633261-87feb5d2-ee0e-41c0-a248-9fb07fab1e1d.png">
+
+- Step 6: Click Start using Jenkins mở ra giao diện ban đâu:
+
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/106597077/207634367-eb18987d-e7b4-4451-bc72-d684b11ff5c8.png">
+
+
+### Các bước expose Jenkins chạy ở localhost:8080 ra ngoài Internet:
+
+- Tại cmd, gõ lệnh `ngrok http 8080` sẽ tạo ra được 1 public url :  https://2579-1-54-210-231.ap.ngrok.io
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/106597077/207639624-8f636063-5e58-4913-93b3-d77f49cbcdc4.png">
+
+- Sử truy cập vào url  https://2579-1-54-210-231.ap.ngrok.io thì sẽ link đến màn Jenkins
+
+<img width="1279" alt="image" src="https://user-images.githubusercontent.com/106597077/207640462-75306e7c-f5be-4833-a7f5-539111b04175.png">
+
+ 
+
 
